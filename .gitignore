@@ -4,3 +4,4 @@ __pycache__/
 .dvc/tmp
 .dvc/config.local
 *credentials*.json
+.ipynb_checkpoints/
