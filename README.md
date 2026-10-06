@@ -1,1 +1,1 @@
-## Fashion-MNIST Classifier Project
+# Fashion-MNIST ANN Pipeline
