@@ -1,1 +1,1 @@
-# Fashion-MNIST ANN Pipeline
+# Fashion-MNIST ANN Pipeline (TensorFlow + DVC)
